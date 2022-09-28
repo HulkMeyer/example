@@ -2,4 +2,4 @@
 
 Hello!
 
-Making changeds trying to work through branching
+Working through second branch operations and trying to understand this
